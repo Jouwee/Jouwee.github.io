@@ -3,7 +3,6 @@ title: 'Updates - Version 0.0.12'
 description: 'Lorem ipsum dolor sit amet'
 pubDate: 'June 14 2025'
 author: 'Jouwee'
-heroImage: '../../assets/blog-placeholder-3.jpg'
 ---
 
 This version was all about the UI and controls:

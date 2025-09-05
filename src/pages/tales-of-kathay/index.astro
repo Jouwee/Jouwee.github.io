@@ -4,7 +4,6 @@ import { getCollection } from 'astro:content';
 import BaseHead from '../../components/BaseHead.astro';
 import Footer from '../../components/Footer.astro';
 import FormattedDate from '../../components/FormattedDate.astro';
-import Header from '../../components/Header.astro';
 import { SITE_DESCRIPTION, SITE_TITLE } from '../../consts';
 
 const posts = (await getCollection('blog')).sort(
@@ -34,17 +33,6 @@ const posts = (await getCollection('blog')).sort(
 			ul li * {
 				text-decoration: none;
 				transition: 0.2s ease;
-			}
-			ul li:first-child {
-				width: 100%;
-				margin-bottom: 1rem;
-				text-align: center;
-			}
-			ul li:first-child img {
-				width: 100%;
-			}
-			ul li:first-child .title {
-				font-size: 2.369rem;
 			}
 			ul li img {
 				margin-bottom: 0.5rem;
@@ -91,17 +79,16 @@ const posts = (await getCollection('blog')).sort(
 			
 			<h1>Tales of Kathay</h1>
 
-        <p>Tales of Kathay is a fantasy turn-based RPG. Your goal is to uncover the ancient secrets of a completely procedural world.</p>
+			<p>Tales of Kathay is a fantasy turn-based RPG. Your goal is to uncover the ancient secrets of a completely procedural world.</p>
 
-        <p>Current stage: <b>Proof of Concept</b>. I'm working on this game as a hobby project since november of 2024, and it's very much incomplete.</p>
+			<p>Current stage: <b>Proof of Concept</b>. I'm working on this game november of 2024, and it's very much incomplete.</p>
 
-        <p><b>How do I play?</b>. I don't consider the game to be at a playable state at the moment. In the following months, I hope to release a demo-scoped playable version for free.</p>
+			<p>Play the pre-alpha on Itch: <a href="https://jouwee.itch.io/tales-of-kathay">https://jouwee.itch.io/tales-of-kathay</a></p>
+			<p>Wishlist it on Steam: <a href="https://store.steampowered.com/app/3939340/Tales_of_Kathay/">https://store.steampowered.com/app/3939340/Tales_of_Kathay/</a></p>
+			<p>Join the Discord server: <a href="https://discord.gg/BHWJMftS9r">https://discord.gg/BHWJMftS9r</a></p>
+			<p>Contact me via Github on <a href="https://github.com/Jouwee/history-generator-rpg">https://github.com/Jouwee/history-generator-rpg</a></p>
 
-        <p>Join the Discord server: <a href="https://discord.gg/BHWJMftS9r">https://discord.gg/BHWJMftS9r</a></p>
-
-        <p>Contact me via Github on <a href="https://github.com/Jouwee/history-generator-rpg">https://github.com/Jouwee/history-generator-rpg</a></p>
-
-        <h2>Changelog</h2>
+			<h2>Updates</h2>
 
 			<section>
 				<ul>

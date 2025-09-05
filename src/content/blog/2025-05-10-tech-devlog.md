@@ -3,7 +3,6 @@ title: 'Updates - Version 0.0.12'
 description: 'Lorem ipsum dolor sit amet'
 pubDate: 'May 10 2025'
 author: 'Jouwee'
-heroImage: '../../assets/blog-placeholder-3.jpg'
 ---
 
 <h4>Version 0.0.12 (2025-05-10)</h4>

@@ -3,7 +3,6 @@ title: 'Weekly Devlog #3 - A living world'
 description: 'Lorem ipsum dolor sit amet'
 pubDate: 'Aug 29 2025'
 author: 'Jouwee'
-heroImage: '../../assets/20250802-102615.png'
 ---
 
 Hello everyone!

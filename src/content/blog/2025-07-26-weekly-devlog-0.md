@@ -3,7 +3,6 @@ title: 'Weekly Devlog #0 - Spells'
 description: 'Lorem ipsum dolor sit amet'
 pubDate: 'July 26 2025'
 author: 'Jouwee'
-heroImage: '../../assets/blog-placeholder-3.jpg'
 ---
 
 This week I finished the rework of the combat/action system, allowing for more interesting spells and combat abilities.
