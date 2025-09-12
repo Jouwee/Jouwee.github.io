@@ -3,7 +3,6 @@ title: 'Weekly Devlog #1 - Dungeons'
 description: 'Lorem ipsum dolor sit amet'
 pubDate: 'Aug 02 2025'
 author: 'Jouwee'
-heroImage: '../../assets/20250802-102615.png'
 ---
 
 <p>Hi everyone!</p>
