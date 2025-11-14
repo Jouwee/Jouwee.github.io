@@ -54,4 +54,4 @@ I still have a few wrinkles to iron out in the new quest and encounter system, s
 
 I also want to add a new lower tier for all weapon types: a club, a makeshift sword, and a lumberjack's axe. These will be cheaper and weaker than the current weapon tiers, intended as starter weapons to increase progression. This will require quite a bit of rebalancing.
 
-This is it for this week, and don’t forget to wishlist Tales of Kathay on Steam!
+This is it for this week, and don’t forget to [wishlist Tales of Kathay on Steam](https://store.steampowered.com/app/3939340/Tales_of_Kathay/)!
